@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <h1>Booki</h1>
   <a href="https://github.com/Erik-42">
-    <img src="./src/assets/images/Banner-Booki.png" alt="Bannière Booki" width="400" height="200">
+    <img src="./src/assets/images/Banner-Booki.png" alt="Bannière Booki" width="400" height="150">
   </a>
 </div>
 
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ABOUT THE PROJECT -->
 ## About The Project 
 
-Créez et publiez votre portfolio de développeur
+Vous êtes chargé d'intégrer l'interface du site avec du code HTML et CSS qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
 
 ## Built with <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
