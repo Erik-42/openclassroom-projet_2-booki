@@ -7,7 +7,7 @@
 }
 
 body {
-    max-width: 1400px;
+    max-width: 1440px;
     margin: auto;
     padding: 0 20px;
 }
@@ -425,7 +425,7 @@ footer p {
 
 /*debut responsive*/
 /*debut tablette*/
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1024px) {
     .body-gap {
         padding-left: 0;
     }
