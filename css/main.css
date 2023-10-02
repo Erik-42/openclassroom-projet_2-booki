@@ -47,36 +47,28 @@ header {
     align-items: center;
 }
 
-header div {
-    width: 61px;
-    height: 19px;
-    margin-left: 5px;
-}
-
-header img {
-    width: 100%;
-    height: 100%;
-    object-fit: fill;
-    transition-duration: 1s;
-}
-
 #logoBooki:hover {
   position: relative;
   animation: roll 2s linear; 
 }
 
-.image {
+.containerImage {
   width: 100%; 
   height: 100%; 
   transform-origin: center center; 
 }
-
+header img {
+    width: 40%;
+    height: 40%;
+    object-fit: fill;
+    transition-duration: 1s;
+}
 @keyframes roll {
   0% {
     transform: translateX(0) rotate(0deg); 
   }
   50% {
-    transform: translateX(300%) rotate(360deg) scale(2);
+    transform: translateX(300%) rotate(380deg) scale(2);
   }
   100% {
     transform: translateX(0) rotate(-360deg) ; 
@@ -510,7 +502,9 @@ footer p {
     }
 
     header img {
-        margin-left: 0;
+    /* margin-left: 0; */
+    width: 70%;
+    height: 70%;
     }
 
     nav {
