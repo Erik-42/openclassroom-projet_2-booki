@@ -1,5 +1,6 @@
-# openclassroom-booki
-Projet Booki OpenCalssRoom
+<div align="center">
+<p>Projet Booki OpenCalssRoom</p>
+</div>
 <a name="readme-top"></a>
 <!---
 Erik-42/Erik-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,9 +30,9 @@ You can click the Preview link to take a look at your changes.
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1>Work</h1>
+  <h1>Booki</h1>
   <a href="https://github.com/Erik-42">
-    <img src="./src/assets/images/Banner-Booki.png" alt="annière Booki" width="400" height="100">
+    <img src="./src/assets/images/Banner-Booki.png" alt="Bannière Booki" width="400" height="200">
   </a>
 </div>
 
@@ -62,10 +63,7 @@ Créez et publiez votre portfolio de développeur
 <p> </p>
 <a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
 <a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 <a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -74,7 +72,7 @@ Créez et publiez votre portfolio de développeur
 <!-- Liens Projet -->
 ## Testez le projet
 
-Github: [https://github.com/Erik-42/openclassroom-booki.git](https://erik-42.github.io/openclassroom-booki/)
+Github: [https://erik-42.github.io/openclassroom-booki/](https://erik-42.github.io/openclassroom-booki/)
 
 
 <!-- LICENSE -->
