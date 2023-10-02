@@ -1,5 +1,5 @@
 <div align="center">
-<p>Projet Booki OpenCalssRoom</p>
+<p>Projet Booki OpenClassRoom</p>
 </div>
 <a name="readme-top"></a>
 <!---
