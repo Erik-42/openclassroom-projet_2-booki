@@ -18,7 +18,8 @@
 }
 body {
     max-width: 1440px;
-    margin: 0 40px;
+    margin: auto;
+    padding: 0 20px;
 }
 h1 {
     font-size: 22px;
@@ -333,7 +334,6 @@ form {
 }
 .carte__activites .carte {
     width: 21.5vw;
-    max-height: 445px;
 }
 .carte__activites h3{
     margin: 20px 0;
@@ -434,6 +434,7 @@ footer p {
 @media screen and (max-width: 768px) {
     body {
         margin: 0;
+        padding: 0;
     }
 
     header {
